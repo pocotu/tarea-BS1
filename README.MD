@@ -1,1 +1,0 @@
-Este es un proyecto vacio para practicar el uso de git y github
